@@ -1,0 +1,5 @@
+﻿  Hook_keybord.cpp
+  Hook_keybordDlg.cpp
+C:\Users\黄首旗\source\repos\Hook_keybord\Hook_keybordDlg.cpp(175,17): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+  正在生成代码...
+  Hook_keybord.vcxproj -> C:\Users\黄首旗\source\repos\Hook_keybord\x64\Debug\Hook_keybord.exe
